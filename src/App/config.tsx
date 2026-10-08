@@ -29,7 +29,7 @@ export const config: Config = {
       display: 'Resume',
       ariaLabel: 'Resume in Google Drive (opens in new window)',
       icon: <Resume />,
-      href: 'https://drive.google.com/file/d/1aMO_uZouvsLqLCOomBOwtzV-yicsVruh/view',
+      href: 'https://drive.google.com/file/d/1rf4mrPE6Dkgq6d7gkgR9uy62DKSMeqHW/view',
     },
     {
       name: 'email',
